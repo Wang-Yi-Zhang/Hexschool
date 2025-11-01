@@ -1,0 +1,33 @@
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    border-left: 6px solid red;
+    border-bottom: 6px solid red;
+}
+
+a{
+    color: red;
+}
+
+.line-through{
+    text-decoration: line-through;
+}
+
+.break-word {
+    color: #c7254e;
+    background-color:#f9f2f4;
+}
+
+img{
+    border: 6px gray solid;
+}
+
+img:hover{
+    border: 6px pink solid;
+}
